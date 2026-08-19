@@ -1,0 +1,8 @@
+# Ignore artifacts and screenshots by default (edit before publishing if you wish to include sanitized copies)
+/artifacts/
+/screenshots/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+/.vscode/
